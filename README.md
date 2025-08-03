@@ -1,4 +1,4 @@
-# Whisper_Model
+# Eye-Test Using AI
 
 Development of a Whisper-Based Speech Recognition System for Assessing Snellen Chart Reading Accuracy via Spectrograms.
 
